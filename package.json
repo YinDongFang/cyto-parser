@@ -1,0 +1,38 @@
+{
+  "name": "cyto-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-parser.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-parser/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-parser#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0"
+  }
+}
